@@ -1,11 +1,11 @@
 # 🚲 CYCLISTIC: USER CONVERSION STRATEGY
 ## This case study analyzes historical trip data from the Cyclistic bike-share program to design marketing strategies aimed at converting casual riders (Customers) into annual members (Subscribers).
 ## 1️⃣ Demographic Analysis (The "Who")
-## Title: User Profile Analysis: Demographic Breakdown by Gender and Membership
+# Title: User Profile Analysis: Demographic Breakdown by Gender and Membership
 
-# Gender Trends: I analyzed gender distribution to understand the makeup of our two user groups.
+## Gender Trends: I analyzed gender distribution to understand the makeup of our two user groups.
 
-# The Opportunity: While Subscribers skew toward a specific demographic, casual Customers show a more balanced distribution, representing a major opportunity for inclusive marketing.
+## The Opportunity: While Subscribers skew toward a specific demographic, casual Customers show a more balanced distribution, representing a major opportunity for inclusive marketing.
 
 2️⃣ Geographic Analysis (The "Where")
 Title: Top 10 High-Traffic Stations: Key Conversion Hubs for Casual Riders
