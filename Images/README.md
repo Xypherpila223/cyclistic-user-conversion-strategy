@@ -1,4 +1,4 @@
-# 🚲 [CYCLISTIC: USER CONVERSION STRATEGY](Images/Bike_Trips_CaseStudy_02162025.pdf)
+# 🚲 [CYCLISTIC: USER CONVERSION STRATEGY](Bike_Trips_CaseStudy_02162025.pdf)
 ## This case study analyzes historical trip data from the Cyclistic bike-share program to design marketing strategies aimed at converting casual riders (Customers) into annual members (Subscribers).
 ## 1️⃣ Demographic Analysis (The "Who")
 # Title: User Profile Analysis: Demographic Breakdown by Gender and Membership
