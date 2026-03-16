@@ -1,4 +1,4 @@
-# [🚲 <font color="#FF5733">cyclistic-user-conversion-strategy</font>](Images/Bike_Trips_CaseStudy_02162025.pdf)
+# [🚲 <font color="#FF5733">cyclistic-user-conversion-strategy</font>]
 
 ### <font color="#2E86C1">A data-driven marketing analysis of Cyclistic bike-share data to optimize user conversion.</font> 
 1. Project Context: Cyclistic User Behavior Analysis (Q1 2018)
