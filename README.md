@@ -22,7 +22,7 @@ Customers: Show higher activity during late morning and mid-day hours. This sugg
 2.The Problem Statement: The goal is to differentiate the usage habits of Annual Subscribers and Casual Customers. By identifying where, when, and for how long these two groups ride, we can pinpoint the "Utility-to-Leisure" ratio of the system. This provides a clear roadmap for when to pivot marketing resources from "Retention" (keeping subscribers) to "Acquisition" (attracting new casual riders).
 
 <p align="center">
-  <img src="Images/Bike_Trips_CaseStudy_02162025 (3)_page-0001.jpg" alt="User Profile Analysis" width="800">
+  <img src="Images/Bike_Trips_CaseStudy_02162025 (3)_page-0001.png" alt="User Profile Analysis" width="800">
    <img src="Images/Bike_Trips_CaseStudy_02162025 (3)_page-0002.jpg" alt="User Profile Analysis" width="800">
     <img src="Images/Bike_Trips_CaseStudy_02162025 (3)_page-0003.jpg" alt="User Profile Analysis" width="800">
 </p>
